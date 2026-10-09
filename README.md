@@ -275,6 +275,7 @@ Yes, with the [zctl CLI](https://zrouter.si/cli).
 - zctl CLI: <https://zrouter.si/cli>
 - Status: <https://zrouter.si/status>
 - Smithery https://smithery.ai/badge/sali/zrouter
+[![smithery badge](https://smithery.ai/badge/sali/zrouter)](https://smithery.ai/servers/sali/zrouter)
 
 ## License
 
