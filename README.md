@@ -57,7 +57,7 @@ Then run `/mcp` inside Claude Code and choose **Authenticate**.
 
 ### Cursor
 
-Install the ZRouter plugin from the Cursor Marketplace, or add the server to `~/.cursor/mcp.json`:
+This repository is also a Cursor plugin (`.cursor-plugin/plugin.json`). Or add the server to `~/.cursor/mcp.json`:
 
 ```json
 {
