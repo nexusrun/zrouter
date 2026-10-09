@@ -274,6 +274,7 @@ Yes, with the [zctl CLI](https://zrouter.si/cli).
 - Integrations: <https://zrouter.si/docs/integrations>
 - zctl CLI: <https://zrouter.si/cli>
 - Status: <https://zrouter.si/status>
+- Smithery https://smithery.ai/badge/sali/zrouter
 
 ## License
 
