@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/logo.png" width="96" alt="ZRouter logo"></p>
+
 # ZRouter MCP Server
 
 Manage your [ZRouter](https://zrouter.si) account from any AI assistant. Check spend, search request logs, create virtual model routers, issue API keys, and set budgets and rate limits in plain language.
@@ -55,7 +57,7 @@ Then run `/mcp` inside Claude Code and choose **Authenticate**.
 
 ### Cursor
 
-Add the server to `~/.cursor/mcp.json`:
+Install the ZRouter plugin from the Cursor Marketplace, or add the server to `~/.cursor/mcp.json`:
 
 ```json
 {

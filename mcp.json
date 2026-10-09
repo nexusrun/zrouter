@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "zrouter": {
+      "url": "https://zrouter.si/mcp"
+    }
+  }
+}

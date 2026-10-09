@@ -1,0 +1,10 @@
+{
+  "name": "zrouter",
+  "description": "Manage your ZRouter AI gateway account from Cursor: usage, request logs, model routers, API keys, budgets, and rate limits.",
+  "version": "1.11.7",
+  "author": { "name": "NEXUS AI", "url": "https://zrouter.si" },
+  "homepage": "https://zrouter.si/docs/mcp",
+  "repository": "https://github.com/nexusrun/zrouter",
+  "license": "MIT",
+  "keywords": ["ai-gateway", "llm-router", "openai-compatible", "usage", "api-keys", "budgets"]
+}
