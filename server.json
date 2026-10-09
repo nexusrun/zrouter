@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.nexusrun/zrouter",
+  "title": "ZRouter",
+  "description": "Manage your ZRouter AI gateway account: usage, logs, model routers, API keys, budgets, and limits.",
+  "websiteUrl": "https://zrouter.si/docs/mcp",
+  "repository": {
+    "url": "https://github.com/nexusrun/zrouter",
+    "source": "github"
+  },
+  "version": "1.11.7",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://zrouter.si/mcp"
+    }
+  ]
+}
